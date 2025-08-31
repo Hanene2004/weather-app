@@ -46,10 +46,6 @@ npm run dev
 - **WeatherAPI** - Weather data
 - **Lucide React** - Icons
 
-## 📱 Screenshots
-
-![Weather App Screenshot](screenshot.png)
-
 ## 🤝 Contributing
 
 1. Fork the project
